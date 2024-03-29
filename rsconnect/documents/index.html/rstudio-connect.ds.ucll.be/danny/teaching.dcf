@@ -1,0 +1,12 @@
+name: teaching
+title: teaching
+username: danny
+account: danny
+server: rstudio-connect.ds.ucll.be
+hostUrl: https://rstudio-connect.ds.ucll.be/__api__
+appId: 40
+bundleId: 201
+url: https://rstudio-connect.ds.ucll.be/content/1cf6fd16-1034-41ac-b28d-85aaafa79011/
+version: 1
+asMultiple: FALSE
+asStatic: TRUE
