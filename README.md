@@ -1,2 +1,2 @@
-# teaching.github.io
-website for teaching purposes
+# something
+contains files needed for courses
